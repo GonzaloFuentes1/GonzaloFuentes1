@@ -13,7 +13,7 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region.
 
 ---
 
-**Stack**
+## Stack
 
 `ML / Research`
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -30,7 +30,7 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region.
 
 ---
 
-**Projects**
+## Projects
 
 - **[LatamGPT](https://www.latamgpt.org/en)** — LLMs trained from scratch for Latin America · [HuggingFace](https://huggingface.co/latam-gpt)
 - **[DevorAI](https://devorai.up.railway.app/)** — AI recipe calculator for street food vendors in Chile
@@ -43,8 +43,7 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region.
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=GonzaloFuentes1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="155" src="https://streak-stats.demolab.com/?user=GonzaloFuentes1&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzaloFuentes1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&card_width=500)
 
 [![GitHub](https://img.shields.io/badge/GitHub-GonzaloFuentes1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GonzaloFuentes1)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-latam--gpt-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/latam-gpt)
