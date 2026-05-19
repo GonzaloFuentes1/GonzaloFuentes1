@@ -37,7 +37,7 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region.
 - **[LatamGPT](https://www.latamgpt.org/en)** — LLMs trained from scratch for Latin America · [HuggingFace](https://huggingface.co/latam-gpt)
 - **[DevorAI](https://devorai.up.railway.app/)** — AI recipe calculator for street food vendors in Chile
 - **[Dreamer4](https://github.com/GonzaloFuentes1/dreamer4)** — Dreamer v4 with asymmetric attention for world models
-- **Trueque Benchmark** — Cultural LLM benchmark: 500 questions across 20 Latin American countries
+- **[Trueque Benchmark](https://huggingface.co/datasets/latam-gpt/Trueque-Benchmark-beta-0.1)** — Cultural LLM benchmark: 500 questions across 20 Latin American countries
 - **[constitutional-ai-data-pipeline](https://github.com/GonzaloFuentes1/constitutional-ai-data-pipeline)** — Data pipeline for Constitutional AI
 - **[toxicity-classifier](https://github.com/GonzaloFuentes1/toxicity-classifier)** — Text toxicity classifier
 
