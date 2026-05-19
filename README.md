@@ -46,7 +46,7 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region. A
 
 <div align="center">
 
-<img src="https://github-readme-stats-peach-xi-34.vercel.app/api?username=GonzaloFuentes1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-peach-xi-34.vercel.app/api?username=GonzaloFuentes1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-stats-peach-xi-34.vercel.app/api/top-langs/?username=GonzaloFuentes1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="165" alt="Top Languages" />
 
