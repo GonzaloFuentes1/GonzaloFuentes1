@@ -46,7 +46,11 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region. A
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzaloFuentes1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img src="https://github-readme-stats-peach-xi-34.vercel.app/api?username=GonzaloFuentes1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats-peach-xi-34.vercel.app/api/top-langs/?username=GonzaloFuentes1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="165" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=GonzaloFuentes1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-GonzaloFuentes1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GonzaloFuentes1)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-latam--gpt-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/latam-gpt)
