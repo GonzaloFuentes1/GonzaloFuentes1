@@ -9,7 +9,7 @@
 ### ML Engineer at [CENIA](https://cenia.cl) · MSc at UC Chile
 
 Co-creator of [LatamGPT](https://www.latamgpt.org/en) — the first family of LLMs trained for Latin America.
-Working on LLM pretraining, alignment, and cultural evaluation for the region.
+Working on LLM pretraining, alignment, and cultural evaluation for the region. Also researching JEPA architectures.
 
 </div>
 
@@ -40,6 +40,7 @@ Working on LLM pretraining, alignment, and cultural evaluation for the region.
 - **[Trueque Benchmark](https://huggingface.co/datasets/latam-gpt/Trueque-Benchmark-beta-0.1)** — Cultural LLM benchmark: 500 questions across 20 Latin American countries
 - **[constitutional-ai-data-pipeline](https://github.com/GonzaloFuentes1/constitutional-ai-data-pipeline)** — Data pipeline for Constitutional AI
 - **[toxicity-classifier](https://github.com/GonzaloFuentes1/toxicity-classifier)** — Text toxicity classifier
+- **[Stomatal-Density-with-Deep-Learning](https://github.com/GonzaloFuentes1/Stomatal-Density-with-Deep-Learning)** — Capstone project: automatic stoma recognition with deep learning
 
 ---
 
