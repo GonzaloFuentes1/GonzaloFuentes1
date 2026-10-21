@@ -15,6 +15,18 @@ I work on LLMs end to end (pretraining, post-training and data) and research wor
 
 ---
 
+## LLM Learning Route
+
+**[LatamGPT Engineering Hub](https://gonzalofuentes1.github.io/llm-learning-route/)** — an open learning route for building LLMs, from fundamentals to SOTA 2026, born at LatamGPT and updated as the field moves.
+13 sections from data and pretraining to post-training, evaluation, safety, serving, agents and interpretability, a 7-stage recommended path, and hands-on guides with code. Written in Spanish, with a focus on Spanish and Portuguese.
+
+[![Roadmap](https://img.shields.io/badge/Roadmap-300%2B%20topics%20%C2%B7%20900%2B%20papers-0EA5E9?style=flat-square&logo=bookstack&logoColor=white)](https://gonzalofuentes1.github.io/llm-learning-route/latamgpt-roadmap.html)
+[![Guides](https://img.shields.io/badge/Guides-40%2B%20hands--on-10B981?style=flat-square&logo=readthedocs&logoColor=white)](https://gonzalofuentes1.github.io/llm-learning-route/)
+[![Stars](https://img.shields.io/github/stars/GonzaloFuentes1/llm-learning-route?style=flat-square&logo=github&label=stars)](https://github.com/GonzaloFuentes1/llm-learning-route)
+[![Updated](https://img.shields.io/github/last-commit/GonzaloFuentes1/llm-learning-route?style=flat-square&label=updated)](https://github.com/GonzaloFuentes1/llm-learning-route/commits)
+
+---
+
 ## Stack
 
 **LLMs / Research**
@@ -50,8 +62,6 @@ I work on LLMs end to end (pretraining, post-training and data) and research wor
 - **[parallelism-from-scratch](https://github.com/GonzaloFuentes1/parallelism-from-scratch)** — DDP, ZeRO-1/2, tensor and pipeline parallelism for a tiny Llama, with float64 parity tests and DCP resharding
 - **[post-training-from-scratch](https://github.com/GonzaloFuentes1/post-training-from-scratch)** — SFT packing and masking, DPO/IPO/SimPO and GRPO/Dr.GRPO/DAPO, each checked by invariant tests
 - **[llama3-70b-dcp-to-hf](https://github.com/GonzaloFuentes1/llama3-70b-dcp-to-hf)** — Converts sharded DCP checkpoints (TP=8) of a Llama 3 70B pretraining run to Hugging Face safetensors
-- **[llm-learning-route](https://gonzalofuentes1.github.io/llm-learning-route/)** — Roadmap and hands-on guides (in Spanish) for building LLMs, from data to serving
-
 **LLM data**
 - **[limpia](https://github.com/GonzaloFuentes1/limpia)** — Spanish and Latin American pretraining data curation: quality heuristics, MinHash dedup, PII scrubbing, decontamination
 - **[quality-filter](https://github.com/GonzaloFuentes1/quality-filter)** — Text quality classifier distilled from an LLM judge, with batch filtering for pretraining data
