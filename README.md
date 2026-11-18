@@ -8,7 +8,7 @@
 
 ### ML Engineer at [CENIA](https://cenia.cl) · MSc at UC Chile
 
-Co-creator of [LatamGPT](https://www.latamgpt.org/en) — the first family of LLMs trained for Latin America.
+Tech Lead of [LatamGPT](https://www.latamgpt.org/en) — the first family of LLMs trained for Latin America.
 I work on LLMs end to end (pretraining, post-training and data) and research world models (Dreamer, JEPA).
 
 </div>
