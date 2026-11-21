@@ -68,6 +68,10 @@ I work on LLMs end to end (pretraining, post-training, data and evals) and resea
 - **[constitutional-ai-data-pipeline](https://github.com/GonzaloFuentes1/constitutional-ai-data-pipeline)** — vLLM pipeline for Constitutional AI data: red-team, critique and revision into SFT and preference pairs
 - **[magpie-persona-gen](https://github.com/GonzaloFuentes1/magpie-persona-gen)** — Persona-conditioned synthetic SFT conversations with filtering and MinHash dedup
 
+**Self-supervised learning (JEPA)**
+- **[llm-jepa-sigreg](https://github.com/GonzaloFuentes1/llm-jepa-sigreg)** — LLM-JEPA reproduction on Llama-3.2-1B (91 runs, 5 seeds): the published gain traces to a pad=eos bug; SIGReg added as regularizer
+- **[sigreg-triton](https://github.com/GonzaloFuentes1/sigreg-triton)** — Fused Triton kernel for SIGReg (LeJEPA): up to 28x faster and 50x less memory than the reference
+
 **World models**
 - **[dreamer4](https://github.com/GonzaloFuentes1/dreamer4)** — Unofficial Dreamer 4 re-implementation: transformer tokenizer, shortcut dynamics and imagination RL on DMControl
 - **[dreamer-core](https://github.com/GonzaloFuentes1/dreamer-core)** — Tested building blocks of DreamerV3-style world models: RSSM, KL balancing, symlog two-hot heads, λ-returns
