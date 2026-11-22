@@ -71,6 +71,7 @@ I work on LLMs end to end (pretraining, post-training, data and evals) and resea
 **Self-supervised learning (JEPA)**
 - **[llm-jepa-sigreg](https://github.com/GonzaloFuentes1/llm-jepa-sigreg)** — LLM-JEPA reproduction on Llama-3.2-1B (91 runs, 5 seeds): the published gain traces to a pad=eos bug; SIGReg added as regularizer
 - **[sigreg-triton](https://github.com/GonzaloFuentes1/sigreg-triton)** — Fused Triton kernel for SIGReg (LeJEPA): up to 28x faster and 50x less memory than the reference
+- **[lejepa-ct-3d](https://github.com/GonzaloFuentes1/lejepa-ct-3d)** — LeJEPA pretraining of 3D ViTs on CT volumes for the CVPR 2026 CT foundation model challenge: 3D block masking, four SSL modes
 
 **World models**
 - **[dreamer4](https://github.com/GonzaloFuentes1/dreamer4)** — Unofficial Dreamer 4 re-implementation: transformer tokenizer, shortcut dynamics and imagination RL on DMControl
