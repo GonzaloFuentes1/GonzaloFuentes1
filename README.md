@@ -69,7 +69,7 @@ I work on LLMs end to end (pretraining, post-training, data and evals) and resea
 - **[magpie-persona-gen](https://github.com/GonzaloFuentes1/magpie-persona-gen)** — Persona-conditioned synthetic SFT conversations with filtering and MinHash dedup
 
 **Self-supervised learning (JEPA)**
-- **[llm-jepa-sigreg](https://github.com/GonzaloFuentes1/llm-jepa-sigreg)** — LLM-JEPA reproduction on Llama-3.2-1B (91 runs, 5 seeds): the published gain traces to a pad=eos bug; SIGReg added as regularizer
+- **[llm-jepa-sigreg](https://github.com/GonzaloFuentes1/llm-jepa-sigreg)** — LLM-JEPA reproduction on Llama-3.2-1B (91 runs, 5 seeds): the published gain traces to a pad=eos bug; SIGReg added as regularizer · [write-up](https://gonzalofuentes1.github.io/en/notes/llm-jepa-audit.html)
 - **[sigreg-triton](https://github.com/GonzaloFuentes1/sigreg-triton)** — Fused Triton kernel for SIGReg (LeJEPA): up to 28x faster and 50x less memory than the reference
 - **[lejepa-ct-3d](https://github.com/GonzaloFuentes1/lejepa-ct-3d)** — LeJEPA pretraining of 3D ViTs on CT volumes for the CVPR 2026 CT foundation model challenge: 3D block masking, four SSL modes
 
